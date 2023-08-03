@@ -1,8 +1,4 @@
-linux/
-macos/
-windows/
-android/
-ios/
+
 # Miscellaneous
 *.class
 *.log
